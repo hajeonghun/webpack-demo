@@ -1,1 +1,1 @@
-https://webpack.kr/guides/asset-management/
+https://webpack.kr/guides/output-management/
